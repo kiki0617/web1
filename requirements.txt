@@ -1,2 +1,2 @@
-streaml
+streamlit
 pillow
